@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Générateur de Groupes Aléatoires</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Générateur de Groupes Aléatoires</h1>
+
+        <form id="groupe-form">
+            <label for="participants">Participants (un par ligne) :</label>
+            <textarea id="participants" rows="10" placeholder="&#10;&#10;"></textarea>
+
+            <label for="nombre-groupes">Nombre de groupes :</label>
+            <input type="number" id="nombre-groupes" min="1" required>
+
+            <button type="submit">Générer les groupes</button>
+        </form>
+
+        <button id="regen-btn" style="display: none;">Re-générer les groupes</button> 
+
+        <div id="resultats"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

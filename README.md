@@ -22,7 +22,9 @@
        - `script.js` : logique aléatoire et affichage
        
     VI. Aperçue du générateur de groupes aléatoires
-    ![groupe_aléatoire](https://github.com/user-attachments/assets/84ec544a-6ec3-4a19-a785-438f464b1126)
     
+    ![groupe_aléatoire](https://github.com/user-attachments/assets/f2405cd0-7c25-4d85-990b-ef0e55e27121)
+
     VII.       Image du Wireframe
-    ![groupe aléatoire](https://github.com/user-attachments/assets/25786059-147b-42f3-a95c-489ee3cd0338)
+    
+![groupe aléatoire](https://github.com/user-attachments/assets/1480c449-edb2-470e-aaed-5e7ada1924dc)

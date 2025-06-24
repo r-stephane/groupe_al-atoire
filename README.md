@@ -25,5 +25,4 @@
     ![groupe_aléatoire](https://github.com/user-attachments/assets/84ec544a-6ec3-4a19-a785-438f464b1126)
     
     VII.       Image du Wireframe
-
     ![groupe aléatoire](https://github.com/user-attachments/assets/25786059-147b-42f3-a95c-489ee3cd0338)
